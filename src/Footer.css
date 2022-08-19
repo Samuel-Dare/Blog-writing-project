@@ -1,0 +1,17 @@
+footer {
+  background-color: black;
+  color: whitesmoke;
+  border: solid;
+  border-color: white;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  padding: 2rem;
+}
+.div-input {
+  display: flex;
+  border: solid;
+  background-color: white;
+  border-radius: 5px;
+  height: 3rem;
+}

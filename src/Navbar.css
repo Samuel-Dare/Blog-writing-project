@@ -1,0 +1,14 @@
+.container-fluid {
+  /* position: fixed; */
+  background-color: whitesmoke;
+}
+.text {
+  color: #292929;
+}
+.text .nav-link2 {
+  color: white;
+  background-color: #0086b0;
+  border: none;
+  border-radius: 7px;
+  padding-inline: 2rem;
+}

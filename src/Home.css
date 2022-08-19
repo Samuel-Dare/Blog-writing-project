@@ -1,0 +1,78 @@
+.opening-section {
+  background-image: url(../public/Images/Rectangle\ 3.png);
+  padding: 7rem;
+}
+p {
+  width: 25rem;
+}
+
+input {
+  width: 15rem;
+  border: 1px none;
+  margin: 4px 0;
+  padding: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+button {
+  color: white;
+  background-color: #0086b0;
+  border: none;
+  margin: 4px 0;
+  padding: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-inline: 2rem;
+}
+
+.top-story-1 {
+  height: 30rem;
+}
+.top-story-2,
+.top-story-3,
+.top-story-4 {
+  height: 15rem;
+}
+
+.top-stories {
+  justify-content: space-around;
+}
+
+.top-stories .top-story-1 {
+  background-image: url(../public/Images/Rectangle\ 42-7.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.top-stories .top-story-2 {
+  background-image: url(../public/Images/Rectangle\ 8.png);
+}
+.top-stories .top-story-3 {
+  background-image: url(../public/Images/Rectangle\ 42.png);
+}
+.top-stories .top-story-4 {
+  background-image: url(../public/Images/Rectangle\ 42-2.png);
+}
+
+.top-stories .top-story-1 h6 {
+  width: 100px;
+  height: 29px;
+  left: 127px;
+  top: 1094px;
+  background: #41d750;
+  text-align: center;
+  border-radius: 5px;
+  color: #fdfeff;
+}
+.top-stories .top-story-2 h6 {
+}
+.top-stories .top-story-3 h6 {
+  border: 1px solid;
+}
+.top-stories .top-story-4 h6 {
+  color: blueviolet;
+}
+footer {
+  border: solid;
+}

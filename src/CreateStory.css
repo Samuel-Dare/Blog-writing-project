@@ -1,0 +1,73 @@
+.create-story-div {
+  margin-inline: auto;
+  margin-block: 2rem;
+  border: 1px solid;
+  border-image: linear-gradient(
+      90deg,
+      rgba(60, 74, 83, 0, 90),
+      rgba(60, 74, 83, 0)
+    )
+    1;
+  width: 85%;
+}
+.create-story-input {
+  width: 70%;
+  border-style: hidden;
+  outline: 0;
+}
+.create-story-div-3 {
+  margin-inline: auto;
+  margin-block: 2rem;
+  border: 1px solid;
+  border-image: linear-gradient(
+      90deg,
+      rgba(60, 74, 83, 0, 90),
+      rgba(60, 74, 83, 0)
+    )
+    1;
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+}
+.create-story-div-3 input {
+  width: 70%;
+  border-style: hidden;
+  outline: 0;
+}
+.upload-image-btn {
+  background-color: gray;
+  width: 20%;
+  border-radius: 0;
+}
+
+.create-story-div-4 {
+  margin-inline: auto;
+  margin-block: 2rem;
+  border: 1px solid;
+  border-image: linear-gradient(
+      90deg,
+      rgba(60, 74, 83, 0, 90),
+      rgba(60, 74, 83, 0)
+    )
+    1;
+  width: 85%;
+}
+
+.create-story-div-4 input {
+  width: 70%;
+  border-style: hidden;
+  outline: 0;
+  padding-bottom: 20rem;
+}
+
+.publish-story-btn-div {
+  text-align: center;
+}
+
+.publish-story-btn {
+  width: 20%;
+  border-radius: 0;
+  padding-block: 5px;
+  margin: 0 auto;
+  text-align: center;
+}

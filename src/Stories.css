@@ -1,0 +1,12 @@
+.you-have-a-story {
+  background-color: #f5f6f8;
+  padding: 4rem;
+}
+
+.stories {
+  justify-content: space-between;
+  margin-block: 4rem;
+}
+/* .stories section {
+  column-gap: 1rem; 
+}  */
