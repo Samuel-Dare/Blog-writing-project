@@ -8,6 +8,7 @@ import Stories from "./Stories";
 import Footer from "./Footer";
 import CreateStory from "./CreateStory";
 import UserWelcome from "./UserWelcome";
+import ErrorPage from "./ErrorPage";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="stories" element={<Stories />} />
         <Route path="createstory" element={<CreateStory />} />
         <Route path="user" element={<UserWelcome />} />
+        <Route path="*" element={<ErrorPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>
