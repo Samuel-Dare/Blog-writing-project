@@ -35,8 +35,8 @@ const Navbar = () => {
               </a>{" "}
             </Link>
 
-            <Link to="">
-              <a className="text nav-link">Contact </a>{" "}
+            <Link to="/CreateStory">
+              <a className="text nav-link">Tell it </a>{" "}
             </Link>
 
             <Link to="/SignIn">

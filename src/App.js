@@ -20,7 +20,6 @@ function App() {
         <Route path="stories" element={<Stories />} />
         <Route path="createstory" element={<CreateStory />} />
         <Route path="user" element={<UserWelcome />} />
-        <Route path="derdd" element={<CreateStory />} />
       </Routes>
       <Footer />
     </BrowserRouter>

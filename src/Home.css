@@ -65,10 +65,15 @@ button {
   border-radius: 5px;
   color: #fdfeff;
 }
+.top-stories .top-story-1 h5 {
+  color: goldenrod;
+}
 .top-stories .top-story-2 h6 {
+  color: yellow;
 }
 .top-stories .top-story-3 h6 {
   border: 1px solid;
+  color: red;
 }
 .top-stories .top-story-4 h6 {
   color: blueviolet;
